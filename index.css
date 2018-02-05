@@ -1,0 +1,11 @@
+.quoteBody {
+  font-size: 25px;
+  color: #232323;
+  font-family: 'Roboto', sans-serif;
+}
+
+.quoteAuthor {
+  font-size: 20px;
+  padding: 0;
+  color: Orange;
+}
